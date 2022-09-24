@@ -15,9 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paula113&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 😂 Random Dev Meme
 <img height="350" alt="Captura de Pantalla 2022-09-23 a la(s) 22 33 24" src="https://user-images.githubusercontent.com/52730693/192078334-1899f40a-4f28-471e-b45c-e76e5b73cf10.png">
 
