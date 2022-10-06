@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paula113&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=paula113&exclude_repo=reto-k,paula113.github.io&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 🔭 I’m currently working on a learning platform<br/>
 👯 I’m looking to collaborate on Hackathons<br/>
